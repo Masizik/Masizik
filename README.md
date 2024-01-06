@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Masizik
 - 👀 I’m interested in golf, moto
 - 🌱 I’m currently learning java
-
+- Write me on facebook
 
 <!---
 Masizik/Masizik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
