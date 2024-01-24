@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Masizik
 - 👀 I’m interested in golf, moto
 - 🌱 I’m currently learning java
-- Write me on facebook
+- Write me on [facebook](https://www.facebook.com/profile.php?id=100094449914746)
 - Have a nace day
 
 <!---
