@@ -2,6 +2,7 @@
 - 👀 I’m interested in golf, moto
 - 🌱 I’m currently learning java
 - Write me on [facebook](https://www.facebook.com/profile.php?id=100094449914746)
+- Follow to me
 - Have a nace day
 
 <!---
